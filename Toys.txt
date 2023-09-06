@@ -1,0 +1,1 @@
+Toy [id=3, name=Матрёшка, weight=65.0]
